@@ -1,2 +1,9 @@
 # XamarinStudy
-자마린 공부
+
+Hi!
+
+I'm Shim
+
+Thank you~~
+
+Commit Test!!
